@@ -8,6 +8,12 @@ An unofficial rebuild of **isXander**'s original work, kept running on current r
 
 Loader: Fabric, NeoForge.
 
+## Versions
+
+| Minecraft | Loader |
+|---|---|
+| 26.3 | Fabric, NeoForge |
+
 ## Source
 
 The full source of every build travels inside the download itself, under `META-INF/sources/`. Unzip the file you grabbed and it is all there — no request needed.
